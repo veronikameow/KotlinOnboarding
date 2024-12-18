@@ -2,7 +2,7 @@ package org.example.lesson1
 
 fun main() {
 
-    val numberOfOrders: Int
-    val thankYouMessage: String
+    val numberOfOrders = 75
+    val thankYouMessage = "Спасибо за покупку!"
 
 }
